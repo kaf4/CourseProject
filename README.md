@@ -29,15 +29,15 @@ You can run the program as is. The default is to process the summary for Lecture
 You can change the file_number variable to read any file_number 1 to 5 OR you can modify the next line of code to loop over all 5 files.
 
 2. Navigate to the cloned GitHub directory in terminal setup with the appropriate Python environment as discussed above. 
-- Runs the demo with default file = 3:
+- Run the demo with default file = 3:
  ```bash 
 python CV_demo.py
 ```
-- You can specify the file you’d like to process (where # is a number 1 to 5)
+- OR specify the file you’d like to process (where # is a number 1 to 5):
  ```bash 
 python CV_demo.py #
 ```
-- If you’d like to process all 5 files: 
+- OR process all 5 files: 
  ```bash 
 python CV_demo.py True
 ```
