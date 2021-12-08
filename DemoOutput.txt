@@ -1,0 +1,95 @@
+Lecture 1: 
+Concepts Matrix
+[['Natural Language Content Analysis' 'Natural Language Content Analysis'
+  '0.16']
+ ['Bag words representation sufficient'
+  'Bag of words representation tends to be sufficient' '0.11']
+ ['NLP Text Retrieval' 'NLP for Text Retrieval' '0.06']
+ ['Example NLP' 'An Example of NLP' '0.04']
+ ['Robust NLP shallow' 'Robust   general NLP tends to be shallow' '0.03']
+ ['State Art' 'The State of the Art' '0.02']
+ ['NLP Difficult' 'NLP Is Difficult' '0.02']
+ ['Examples Challenges' 'Examples of Challenges' '0.01']]
+Selected Concepts
+Natural Language Content Analysis, Bag words representation sufficient, NLP Text Retrieval, An Example of NLP, Robust NLP shallow, The State of the Art, NLP Is Difficult, Examples of Challenges
+-----------------------------------------------------------------
+Lecture 2: 
+Concepts Matrix
+[['Modes Text Access Pull vs Push'
+  'Two Modes of Text Access Pull vs Push' '0.3']
+ ['Pull Mode Querying vs Browsing' 'Pull Mode Querying vs Browsing'
+  '0.29']
+ ['Access Relevant Text Data' 'Access to Relevant Text Data' '0.24']
+ ['Information Seeking Sightseeing' 'Information Seeking as Sightseeing'
+  '0.1']
+ ['Pull search engines' 'Pull search engines' '0.1']
+ ['Text Access' 'Text Access' '0.09']
+ ['Push recommender systems' 'Push recommender systems' '0.06']
+ ['Pull' 'Pull' '0.05']
+ ['Push' 'Push' '0.04']
+ ['Querying' 'Querying' '0.03']]
+Selected Concepts
+Modes Text Access Pull vs Push, Pull Mode Querying vs Browsing, Access Relevant Text Data, Information Seeking Sightseeing, Pull search engines, Text Access, Push recommender systems, Pull, Push, Querying
+-----------------------------------------------------------------
+Lecture 3: 
+Concepts Matrix
+[['Set relevant documents' 'Set of relevant documents' '0.18']
+ ['Text Retrieval Problem' 'Text Retrieval Problem' '0.16']
+ ['Probability Ranking Principle' 'Probability Ranking Principle' '0.13']
+ ['Text Retrieval TR' 'What Is Text Retrieval TR' '0.09']
+ ['Document Selection vs Ranking' 'Document Selection vs Ranking' '0.08']
+ ['Problems Document Selection' 'Problems of Document Selection' '0.06']
+ ['TR vs Database Retrieval' 'TR vs Database Retrieval' '0.05']
+ ['Document' 'Document' '0.04']
+ ['Theoretical Justification Ranking'
+  'Theoretical Justification for Ranking' '0.03']
+ ['Query' 'Query' '0.03']
+ ['Compute Rq' 'How to Compute Rq' '0.01']
+ ['Collection' 'Collection' '0.01']
+ ['Vocabulary' 'Vocabulary' '0.01']
+ ['Formal Formulation TR' 'Formal Formulation of TR' '0.01']]
+Selected Concepts
+Set relevant documents, Text Retrieval Problem, Probability Ranking Principle, Text Retrieval TR, Document Selection vs Ranking, Problems Document Selection, TR vs Database Retrieval, Document, Theoretical Justification Ranking, Query, How to Compute Rq, Collection, Vocabulary, Formal Formulation TR
+-----------------------------------------------------------------
+Lecture 4: 
+Concepts Matrix
+[['Design Ranking Function' 'How to Design a Ranking Function' '0.26']
+ ['Common Ideas State Art Retrieval Models'
+  'Common Ideas in State of the Art Retrieval Models' '0.25']
+ ['Text Retrieval Methods' 'Overview of Text Retrieval Methods' '0.14']
+ ['Model Works Best' 'Which Model Works the Best' '0.12']
+ ['Retrieval Models' 'Many Different Retrieval Models' '0.12']
+ ['Retrieval model' 'Retrieval model' '0.11']
+ ['Document Frequency' 'Document Frequency' '0.1']
+ ['Document length' 'Document length' '0.1']
+ ['Similarity-based models' 'Similarity-based models' '0.09']
+ ['Pivoted length normalization' 'Pivoted length normalization' '0.09']
+ ['Ranking function' 'Ranking function' '0.09']
+ ['Probabilistic inference model' 'Probabilistic inference model' '0.08']
+ ['Probabilistic models' 'Probabilistic models' '0.08']
+ ['Document' 'Document' '0.07']
+ ['Query likelihood' 'Query likelihood' '0.05']
+ ['Axiomatic model' 'Axiomatic model' '0.05']
+ ['Term Frequency' 'Term Frequency' '0.04']
+ ['Query' 'Query' '0.04']
+ ['BM25' 'BM25' '0.01']
+ ['PL2' 'PL2' '0.01']]
+Selected Concepts
+Design Ranking Function, Common Ideas State Art Retrieval Models, Text Retrieval Methods, Model Works Best, Many Different Retrieval Models, Retrieval model, Document Frequency, Document length, Similarity-based models, Pivoted length normalization, Ranking function, Probabilistic inference model, Probabilistic models, Document, Query likelihood, Axiomatic model, Term Frequency, Query, BM25, PL2
+-----------------------------------------------------------------
+Lecture 5: 
+Concepts Matrix
+[['Vector Space Retrieval Model Basic Idea'
+  'Vector Space Retrieval Model Basic Idea' '0.53']
+ ['Vector Space Model VSM Illustration'
+  'Vector Space Model VSM Illustration' '0.41']
+ ['N-dimensional space' 'N-dimensional space' '0.17']
+ ['Term' 'Term' '0.04']
+ ['Query' 'Query q' '0.04']
+ ['VSM Framework' 'VSM Is a Framework' '0.03']
+ ['Retrieval Models' 'Many Different Retrieval Models' '0.03']
+ ['VSM' 'What VSM Doesnt Say' '0.02']
+ ['Doc' 'Doc d' '0.01']]
+Selected Concepts
+Vector Space Retrieval Model Basic Idea, Vector Space Model VSM Illustration, N-dimensional space, Term, Query q, VSM Is a Framework, Many Different Retrieval Models, What VSM Doesnt Say, Doc d
+-----------------------------------------------------------------
