@@ -16,16 +16,15 @@ To run the demo, simply clone https://github.com/kaf4/CourseProject.git from my 
 
 There are two ways to run the program:
 
-```
+
 1. In your favorite IDE setup, with the appropriate Python environment as described above, open CV_Demo.py, and scroll to the bottom. 
 You can run the program as is. The default is to process the summary for Lecture 3. 
 You can also change the file_number variable to read any files 1 to 5 or you can modify the code to loop over all 5 files.
-```
-```
+
 2. Navigate to the cloned GitHub directory in terminal setup with the appropriate python environment as discussed above. 
-Run CV_demo.py using ```bash python CV_demo.py```
- 
-You can specify the file you’d like to process by typing: python CV_demo.py #
-Where # is a number 1 to 5. If you’d like to process all 5 files: python CV_demo.py True
+Run CV_demo.py using ```bash python CV_demo.py
 ```
+ You can specify the file you’d like to process by typing: python CV_demo.py #
+Where # is a number 1 to 5. If you’d like to process all 5 files: python CV_demo.py True
+
 
