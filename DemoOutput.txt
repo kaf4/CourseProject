@@ -11,7 +11,7 @@ Concepts Matrix
  ['NLP Difficult' 'NLP Is Difficult' '0.02']
  ['Examples Challenges' 'Examples of Challenges' '0.01']]
 Selected Concepts
-Natural Language Content Analysis, Bag words representation sufficient, NLP Text Retrieval, An Example of NLP, Robust NLP shallow, The State of the Art, NLP Is Difficult, Examples of Challenges
+Natural Language Content Analysis, Bag words representation sufficient, NLP for Text Retrieval, An Example of NLP, Robust NLP shallow, The State of the Art, NLP Is Difficult, Examples of Challenges
 -----------------------------------------------------------------
 Lecture 2: 
 Concepts Matrix
@@ -29,7 +29,7 @@ Concepts Matrix
  ['Push' 'Push' '0.04']
  ['Querying' 'Querying' '0.03']]
 Selected Concepts
-Modes Text Access Pull vs Push, Pull Mode Querying vs Browsing, Access Relevant Text Data, Information Seeking Sightseeing, Pull search engines, Text Access, Push recommender systems, Pull, Push, Querying
+Modes Text Access Pull vs Push, Pull Mode Querying vs Browsing, Access Relevant Text Data, Information Seeking as Sightseeing, Pull search engines, Text Access, Push recommender systems, Pull, Push, Querying
 -----------------------------------------------------------------
 Lecture 3: 
 Concepts Matrix
@@ -49,7 +49,7 @@ Concepts Matrix
  ['Vocabulary' 'Vocabulary' '0.01']
  ['Formal Formulation TR' 'Formal Formulation of TR' '0.01']]
 Selected Concepts
-Set relevant documents, Text Retrieval Problem, Probability Ranking Principle, Text Retrieval TR, Document Selection vs Ranking, Problems Document Selection, TR vs Database Retrieval, Document, Theoretical Justification Ranking, Query, How to Compute Rq, Collection, Vocabulary, Formal Formulation TR
+Set of relevant documents, Text Retrieval Problem, Probability Ranking Principle, What Is Text Retrieval TR, Document Selection vs Ranking, Problems of Document Selection, TR vs Database Retrieval, Document, Theoretical Justification for Ranking, Query, How to Compute Rq, Collection, Vocabulary, Formal Formulation of TR
 -----------------------------------------------------------------
 Lecture 4: 
 Concepts Matrix
@@ -75,7 +75,7 @@ Concepts Matrix
  ['BM25' 'BM25' '0.01']
  ['PL2' 'PL2' '0.01']]
 Selected Concepts
-Design Ranking Function, Common Ideas State Art Retrieval Models, Text Retrieval Methods, Model Works Best, Many Different Retrieval Models, Retrieval model, Document Frequency, Document length, Similarity-based models, Pivoted length normalization, Ranking function, Probabilistic inference model, Probabilistic models, Document, Query likelihood, Axiomatic model, Term Frequency, Query, BM25, PL2
+How to Design a Ranking Function, Common Ideas State Art Retrieval Models, Overview of Text Retrieval Methods, Which Model Works the Best, Many Different Retrieval Models, Retrieval model, Document Frequency, Document length, Similarity-based models, Pivoted length normalization, Ranking function, Probabilistic inference model, Probabilistic models, Document, Query likelihood, Axiomatic model, Term Frequency, Query, BM25, PL2
 -----------------------------------------------------------------
 Lecture 5: 
 Concepts Matrix
