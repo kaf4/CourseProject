@@ -19,7 +19,8 @@ pip install PyMuPDF
 ## Python Environment
 Regrettably due to the version control of MeTAPy the demo will need to run in the same outdated Python environment used for the course assignments. I was successful using Python version 3.7. If you should have any trouble, I have included a video demo as well as the output generated from the demo (DemoOutput.txt).
 
-## To run the demo clone my GitHub: https://github.com/kaf4/CourseProject.git
+## To Run the Demo 
+- clone my GitHub: https://github.com/kaf4/CourseProject.git
 
 ## There are two ways to run the program:
 
