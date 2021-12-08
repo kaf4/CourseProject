@@ -20,7 +20,7 @@ Regrettably due to the version control of MeTApy, the demo will need to run in t
 
 To run the demo, simply clone: https://github.com/kaf4/CourseProject.git from my GitHub
 
-##There are two ways to run the program:
+## There are two ways to run the program:
 
 1. In your favorite IDE setup, with the appropriate Python environment as described above, open CV_Demo.py, and scroll to the bottom. 
 You can run the program as is. The default is to process the summary for Lecture 3. 
