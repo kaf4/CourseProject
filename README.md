@@ -41,7 +41,7 @@ python CV_demo.py #
 ```
 - OR process all 5 files: 
  ```bash 
-python CV_demo.py True
+python CV_demo.py loop
 ```
 
 
