@@ -2,7 +2,18 @@
 
 CS410 - Final Project
 
-DEMO: https://uofi.box.com/s/a9vi2yenkrq15s3ottt8j2i9akd6xrju
+##Demo Video 
+```bash 
+https://uofi.box.com/s/a9vi2yenkrq15s3ottt8j2i9akd6xrju
+```
+
+## GitHub Files
+- CV_Demo.py: Python demo progam (see below for instructions)
+- Concepts.xlsx: spreadsheet of my code's CV Generated results vs. human generated concept summaries 
+- DemoOutput.txt: output from demo file
+- stops.txt: text file of stopwords
+- pdfs1/transcripts1: contain pdf and text files from Lectures 1 through 5
+- Final Report.pdf: final project report 
 
 ## Python Modules/Packages
 To run CV_demo.py, the following python modules are needed: operator, fitz, re, MeTAPy, NumPy 
