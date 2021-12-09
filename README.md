@@ -8,10 +8,10 @@ https://uofi.box.com/s/a9vi2yenkrq15s3ottt8j2i9akd6xrju
 ## GitHub Files
 - CV_Demo.py: demo program (see below for requirements/instructions)
 - Concepts.xlsx: spreadsheet of my code's CV Generated results vs. human generated concept summaries 
-- DemoOutput.txt: output from demo file
-- stops.txt: text file of stopwords
-- pdfs1/transcripts1: contain pdf and text files from Lectures 1 through 5
+- DemoOutput.txt: output from demo 
 - Final Report.pdf: final project report 
+- stops.txt: text file of stop_words for demo 
+- pdfs1/transcripts1: contain pdf and text files from Lectures 1 through 5 for demo 
 
 ## Python Modules/Packages
 To run CV_demo.py, the following python modules are needed: operator, fitz, re, MeTAPy, NumPy 
