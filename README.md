@@ -2,10 +2,10 @@
 
 CS410 - Final Project
 
-DEMO:
+DEMO: https://uofi.box.com/s/a9vi2yenkrq15s3ottt8j2i9akd6xrju
 
 ## Python Modules/Packages
-To run CV_demo.py, the following python modules are needed: operator, fitz, re, MeTAPy, NumPy.
+To run CV_demo.py, the following python modules are needed: operator, fitz, re, MeTAPy, NumPy 
 - re and operator are in of python’s standard library (I assume these will not be an issue)
 - MeTAPy: have been used for course assignments (https://github.com/meta-toolkit/metapy) 
 - NumPy: (https://numpy.org/install/) - if not already installed:
