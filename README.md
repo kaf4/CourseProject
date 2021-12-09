@@ -2,13 +2,11 @@
 
 CS410 - Final Project
 
-##Demo Video 
-```bash 
+## Demo Video 
 https://uofi.box.com/s/a9vi2yenkrq15s3ottt8j2i9akd6xrju
-```
 
 ## GitHub Files
-- CV_Demo.py: Python demo progam (see below for instructions)
+- CV_Demo.py: demo program (see below for requirements/instructions)
 - Concepts.xlsx: spreadsheet of my code's CV Generated results vs. human generated concept summaries 
 - DemoOutput.txt: output from demo file
 - stops.txt: text file of stopwords
